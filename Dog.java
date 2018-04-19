@@ -4,4 +4,8 @@ class Dog {
     Dog(String name) {
         this.name = name;
     }
+
+    Dog() {
+        this.name = "poop";
+    }
 }
