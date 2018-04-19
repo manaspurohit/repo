@@ -10,4 +10,8 @@ class Dog {
     Dog() {
         this.name = "poop";
     }
+
+    int addNumToAge(int num) {
+        return age + num;
+    }
 }
