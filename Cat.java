@@ -4,4 +4,8 @@ class Cat {
     Cat(int age) {
         this.age = age;
     }
+
+    Cat() {
+        this.age = 6;
+    }
 }

@@ -6,4 +6,8 @@ class Dog {
         this.name = name;
         this.age = age;
     }
+
+    Dog() {
+        this.name = "poop";
+    }
 }
