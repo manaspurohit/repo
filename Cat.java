@@ -6,6 +6,6 @@ class Cat {
     }
 
     Cat() {
-        this.age = 9;
+        this.age = 6;
     }
 }
