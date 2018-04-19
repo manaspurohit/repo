@@ -8,4 +8,8 @@ class Cat {
     Cat() {
         this.age = 6;
     }
+
+    void birthday() {
+        this.age = this.age + 1;
+    }
 }
